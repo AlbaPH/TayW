@@ -2,4 +2,4 @@
 Videogame project
 
  - To do list
-  - 1st
+  - 2nd

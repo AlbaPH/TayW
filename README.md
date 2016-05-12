@@ -1,4 +1,4 @@
 # TayW
 Videogame project
 
- - List 
+ - To do list
